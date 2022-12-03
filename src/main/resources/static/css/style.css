@@ -119,3 +119,12 @@ html {
 	left: 0px;
 	top: 0px;
 }
+
+.image_2 {
+	position: absolute;
+    overflow: hidden
+	width: 294px;
+	height: 61px;
+	right: 0px;
+	top: 0px;
+}
