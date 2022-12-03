@@ -1,5 +1,9 @@
 body {
   color: #000000;
+  right: 50%;
+  top: 0px;
+  transform: translate(50%,0%);
+  position: absolute;
 }
 
 
@@ -105,4 +109,13 @@ html {
 
 .red {
     color: red
+}
+
+.image_1 {
+	position: absolute;
+    overflow: hidden
+	width: 294px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
 }
